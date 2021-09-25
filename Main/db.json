@@ -1,4 +1,4 @@
-const estudiantes = [
+
     {
         "id": 1,
         "nombre": "Beatriz pinzon solano",
@@ -97,4 +97,3 @@ const estudiantes = [
         "genero": "M",
         "img": "https://www.personality-database.com/profile_images/177627.png"
     }
-]
