@@ -1,4 +1,6 @@
-  {
+{
+"estudiantes": [
+    {
         "id": 1,
         "nombre": "Beatriz pinzon solano",
         "edad" : 26,
@@ -96,3 +98,5 @@
         "genero": "M",
         "img": "https://www.personality-database.com/profile_images/177627.png"
     }
+]
+}
