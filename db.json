@@ -2,45 +2,39 @@
    "characters": [
     {
         "id": 1,
-        "nombre": "Beatriz pinzon solano",
-        "edad" : 26,
-        "genero": "F",
-        "img": "https://www.personality-database.com/profile_images/157310.png"
+        "nombre": "Killing Is My Business... And Business Is Good!",
+        "año" : 1985,
+        "imagen": "https://img.discogs.com/e78Qkrip1inYRb3i8Pg9nx_tfQE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-415900-1301276980.jpeg.jpg"
     },
     {
         "id": 2,
-        "nombre": "Don Armando",
-        "edad" : 31,
-        "genero": "M",
-        "img": "https://www.personality-database.com/profile_images/157311.png"
+        "nombre": "Peace Sells... But Who's Buying?",
+        "año" : 1986,
+        "imagen": "https://img.discogs.com/OoZOgt9dgH-s_KJ1OvQ3Ke8ivww=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1302358-1283657756.jpeg.jpg"
     },
     {
         "id": 3,
-        "nombre": "Marcela Valencia",
-        "edad" : 32,
-        "genero": "F",
-        "img": "https://www.personality-database.com/profile_images/157313.png"
+        "nombre": "So Far, So Good... So What!",
+        "año" : 1988,
+       "imagen": "https://img.discogs.com/989D3oA1EoItEDNTPGtIsnCavgI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367294-1484214633-9445.jpeg.jpg"
     },
     {
         "id": 4,
-        "nombre": "Nicolás Mora",
-        "edad" : 34,
-        "genero": "M",
-        "img": "https://www.personality-database.com/profile_images/157315.png"
+        "nombre": "Rust In Peace",
+        "año" : 1990,
+        "imagen": "https://img.discogs.com/RE3jqWG2rgGsNzmLcaqh0MH4McA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1298710-1207557645.jpeg.jpg"
     },
     {
         "id": 5,
-        "nombre": "Patricia Fernández (Peliteñida)",
-        "edad" : 29,
-        "genero": "F",
-        "img": "https://www.personality-database.com/profile_images/157312.png"
+        "nombre": "Countdown To Extinction",
+        "año" : 1992,
+        "imagen": "https://img.discogs.com/zL_tS_IDW95edXWcdHmmXhDPYHo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-574666-1306089586.jpeg.jpg"
     },
     {
         "id": 6,
-        "nombre": "Mario Calderón",
-        "edad" : 33,
-        "genero": "M",
-        "img": "https://www.personality-database.com/profile_images/175881.png"
+        "nombre": "Youthanasia",
+        "año" : 1994,
+        "imagen": "https://img.discogs.com/pYMuu4r3SZbqTweTMNVIZYOARps=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-964563-1283100890.jpeg.jpg"
     }
     
     ]
